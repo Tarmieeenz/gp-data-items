@@ -1,0 +1,9 @@
+{
+  "name": "envato-tracker-netlify",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Shared Envato Elements item tracker with Netlify Blobs",
+  "dependencies": {
+    "@netlify/blobs": "^10.0.0"
+  }
+}
